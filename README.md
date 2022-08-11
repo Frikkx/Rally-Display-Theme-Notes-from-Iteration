@@ -1,5 +1,5 @@
-# Rally-Display-Theme-Notes
-My first App :)
+# Rally-Display-Theme-Notes- from -Iterations
+
 This App is thougth to be used in the reto or on sprint report page to show what was the theme of the sprint.
 Notes is visible and it can be used to the retro notes.
 
